@@ -1,7 +1,5 @@
-# readme-sample
+# README SAMPLE
 
-
-# Example App
 English / [日本語](./documents/README-ja.md)
 
 ## Table of Contents
