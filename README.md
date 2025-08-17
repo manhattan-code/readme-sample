@@ -39,7 +39,7 @@ English / [日本語](./documents/README-ja.md)
 1. Clone the project
     ```shell
     https://github.com/example/example-flutter.git
-    cd tanzam-flutter
+    cd example-flutter
     ```
 2. Install Flutter using asdf
     ```shell
