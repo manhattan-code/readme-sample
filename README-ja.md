@@ -1,4 +1,4 @@
-# TANZAM App
+# サンプルアプリ
 [English](./README.md) / 日本語
 
 ## 目次
@@ -36,8 +36,8 @@
 ### セットアップ
 1. プロジェクトのクローン
     ```shell
-    https://github.com/tanzam-dev/tanzam-flutter.git
-    cd tanzam-flutter
+    https://github.com/tanzam-dev/example-flutter.git
+    cd example-flutter
     ```
 2. asdf を使用して Flutter をインストールする
     ```shell
