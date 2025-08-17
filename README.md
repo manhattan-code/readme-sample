@@ -1,6 +1,6 @@
 # README SAMPLE
 
-English / [日本語](./documents/README-ja.md)
+English / [日本語](./README-ja.md)
 
 ## Table of Contents
 - [Directory Structure Design](#DirectoryStructureDesign)
